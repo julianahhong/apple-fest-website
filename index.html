@@ -2,21 +2,25 @@
 <html>
   <head>
     <meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
     <title>Apple Harvest Festival</title>
   </head>
   <body>
-    <div id="title">
-      <h1>Apple Harvest Festival</h1>
-    </div>
     <nav>
       <a href="#">Home</a>
       <a href="#">About</a>
       <a href="#">Events/Food</a>
 	  <a href="#">Directions</a>
-
     </nav>
-    <footer>
 
-    </footer>
+	<div id="photo_slider">
+		<button onclick="previousImage()">Back</button>
+		<img id = "photo" src="img/apples.jpg">
+		<button onclick="nextImage()">Next</button>
+	</div>
   </body>
+  <footer>
+	<script src="js/main.js"></script>
+
+  </footer>
 </html>
