@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="styles/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
     <title>Apple Harvest Festival</title>
   </head>
   <body>
@@ -15,12 +17,11 @@
 
 	<div id="photo_slider">
 		<img id = "photo" src="img/apples.jpg">
-		<button onclick="previousImage()">Back</button>
-		<button onclick="nextImage()">Next</button>
+		<div class="dot" id="back" onclick="previousImage()"></div>
+		<div class="dot" id="next"onclick="nextImage()"></div>
 	</div>
   </body>
   <footer>
 	<script src="js/main.js"></script>
-
   </footer>
 </html>
