@@ -2,8 +2,8 @@
 echo '
 <body>
 <div class="banner">
-  <img src="images/cornell-university-landscape.jpg" alt="cornell">
-  <!-- image credit: http://kai.kendal.org/wp-content/blogs.dir/11/files/home-slideshow/cornell-university-landscape.jpg -->
+  <img src="images/downtown.jpg" alt="downtown">
+  <!-- image credit: https://www.facebook.com/downtownithaca/photos/a.10150298773760576.553176.132710300575/10152696293625576/?type=1&theater -->
 </div>
 
 <div id="nav_bar">
