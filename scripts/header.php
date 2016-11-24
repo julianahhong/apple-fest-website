@@ -8,10 +8,10 @@ echo '
 
 <div id="nav_bar">
   <ul>
-    <li><a href="index.php">Homepage</a></li>
-    <li><a href="about.php">History</a></li>
-    <li><a href="about.php">Event&Food</a></li>
-    <li><a href="about.php">Directions</a></li>
+    <li><a href="#">Homepage</a></li>
+    <li><a href="#">History</a></li>
+    <li><a href="#">Event&Food</a></li>
+    <li><a href="#">Directions</a></li>
   </ul>
 </div> <!--end of nav_bar div-->';
 ?>
