@@ -7,13 +7,10 @@
 
     <title>Apple Harvest Festival</title>
   </head>
+	
   <body>
-    <nav>
-      <a href="#">Home</a>
-      <a href="#">About</a>
-      <a href="#">Events/Food</a>
-	  <a href="#">Directions</a>
-    </nav>
+     
+	<?php include("scripts/header.php"); ?>
 
 	<div id="photo_slider">
 		<img id = "photo" src="img/apples.jpg">
