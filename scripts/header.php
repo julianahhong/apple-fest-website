@@ -10,7 +10,7 @@ echo '
   <ul>
     <li><a href="#">Homepage</a></li>
     <li><a href="#">History</a></li>
-    <li><a href="#">Event&Food</a></li>
+    <li><a href="#">Events & Food</a></li>
     <li><a href="#">Directions</a></li>
   </ul>
 </div> <!--end of nav_bar div-->';
