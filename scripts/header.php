@@ -1,7 +1,7 @@
 <?php
 echo '
 <body>
-<div class="banner">
+<div id="banner">
   <img src="img/downtown.jpg" alt="downtown">
   <!-- image credit: https://www.facebook.com/downtownithaca/photos/a.10150298773760576.553176.132710300575/10152696293625576/?type=1&theater -->
   <p> Ithaca Apple Festival </p>
