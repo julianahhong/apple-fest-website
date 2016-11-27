@@ -2,9 +2,11 @@
 echo '
 <body>
 <div id="banner">
-  <img src="img/downtown.jpg" alt="downtown">
-  <!-- image credit: https://www.facebook.com/downtownithaca/photos/a.10150298773760576.553176.132710300575/10152696293625576/?type=1&theater -->
-  <p> Ithaca Apple Festival </p>
+  <div class="image">
+    <img src="img/city.jpg" alt="downtown">
+    <!-- image credit: http://cliparts.co/cliparts/rij/RyB/rijRyBGjT.png -->
+  </div>
+  <h2> Ithaca Apple Festival </h2>
 </div>
 
 <div id="nav_bar">

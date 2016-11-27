@@ -3,38 +3,52 @@ head {
 }
 
 #banner {
-	background-color: #000033;
+	background-color: #324c5f;
 	font-family: 'Tangerine', serif;
-	font-size: 50em;
 	color: #ffffff;
 	left: 0;
 	top: 0;
 	position: fixed;
 	width: 100%;
-	padding-left: 50px;
-	display: inline;
 }
- 
+
+.image {
+	position: relative;
+	float: left;
+	left: -19px;
+	top: -25px;
+}
+
+h2 {
+	position: absolute;
+	top: 0px;
+	left: 50px;
+	width: 100%;
+	font-size: 3em;
+}
+
 #nav_bar {
-	background-color: grey;
-	font-family: 'Bree Serif', serif;
+	background-color: #FF8362;
+	font-family: 'Lora', serif;
 	left: 0;
-	top: 160px;
+	top: 90px;
 	width: 100%;
 	position: fixed;
 }
- 
+
 #nav_bar li {
 	display: inline;
+	margin-top: 0;
 	margin-right: 40px;
+	padding: 0;
 	color: #ffffff;
 }
- 
+
 #nav_bar a {
 	text-decoration: none;
 	color: #ffffff;
 }
- 
+
 #photo_slider img{
 	width: 100%;
 }
