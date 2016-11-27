@@ -5,19 +5,21 @@ head {
 #banner {
 	background-color: #000033;
 	font-family: 'Tangerine', serif;
+	font-size: 50em;
 	color: #ffffff;
 	left: 0;
 	top: 0;
 	position: fixed;
 	width: 100%;
 	padding-left: 50px;
+	display: inline;
 }
  
 #nav_bar {
 	background-color: grey;
 	font-family: 'Bree Serif', serif;
 	left: 0;
-	top: 120px;
+	top: 160px;
 	width: 100%;
 	position: fixed;
 }
