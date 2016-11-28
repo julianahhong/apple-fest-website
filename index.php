@@ -41,13 +41,13 @@
 				<p>There are several ways to get from Cornell’s campus to Ithaca Commons! <br> You can choose to walk or take public transportation offered by TCAT. <br> On the first day of AppleFest, which falls on Friday, you can take route 30, 32 from the Risley stop on North Campus or route 10 from the Boldt Stop on West Campus to the Seneca bus stop. On Saturday and Sunday, you can take route 70, 72 from both North and West Campus, which is free of charge if you bring your Cornell ID. </p>
 			
 			<div class="image_box">
-			<!-- image from https://tcat.nextinsight.com-->
+			<!-- image from https://tcat.nextinsight.com/routes/440#bigpic-->
             <img src="img/direction1.jpg" alt="t cat route 30">
             <p class="caption">Figure.1 Route 30</p>
-			<!-- image from https://tcat.nextinsight.com-->
+			<!-- image from https://tcat.nextinsight.com/routes/469#bigpic-->
             <img src="img/direction2.jpg" alt="t cat route 70">
             <p class="caption">Figure.2 Route 70</p>
-			<!-- image from https://tcat.nextinsight.com-->
+			<!-- image from https://tcat.nextinsight.com/routes/416#bigpic-->
             <img src="img/direction3.jpg" alt="t cat route 10">
             <p class="caption">Figure.3 Route 10</p>
         	</div><!-- end of image_box div -->
