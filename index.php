@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="styles/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Eczar" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<title>Apple Harvest Festival</title>
 </head>
+
 
 <body>
 
@@ -15,6 +17,8 @@
 
 	<div id="photo_slider">
 		<img id = "photo" src="img/apples.jpg">
+		<!--Photo Source: https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479674630576/?type=3&theater -->
+		<!-- Additional photo credits available in js/main.js file -->
 		<div class="dot" id="back" onclick="previousImage()"></div>
 		<div class="dot" id="next"onclick="nextImage()"></div>
 	</div>

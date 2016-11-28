@@ -1,8 +1,14 @@
 var i=0;
 var images = ["img/apples.jpg", "img/caramel.jpg", "img/cider.jpg", "img/people.jpg", "img/wine.jpg"];
-var image = document.getElementById("photo");
+//Photo Source: apples.jpg- https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479674845576/?type=3&theater
+//Photo Source: caramel.jpg- https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479674630576/?type=3&theater
+//Photo Source: caramel.jpg- https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479675900576/?type=3&theater
+//Photo Source: people.jpg- https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479674740576/?type=3&theater
+//Photo Source: wine.jpg- https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479675475576/?type=3&theater
 
+var image = document.getElementById("photo");
 function nextImage(){
+	console.log('hi');
 	if (i == images.length - 1) {
 		i = 0;
 	}
@@ -10,7 +16,6 @@ function nextImage(){
 		i+=1;
 	}
 	image.src = images[i];
-	highlightDot();
 }
 function previousImage(){
 	if (i == 0){
@@ -21,6 +26,10 @@ function previousImage(){
 	}
 	image.src = images[i];
 }
+
+setInterval('nextImage()', 2000);
+
+
 
 /*
 function changeSliderImages(){
