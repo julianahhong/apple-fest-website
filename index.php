@@ -15,6 +15,8 @@
 
 	<div id="photo_slider">
 		<img id = "photo" src="img/apples.jpg">
+		<!--Photo Source: https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479674630576/?type=3&theater -->
+		<!-- Additional photo credits available in js/main.js file -->
 		<div class="dot" id="back" onclick="previousImage()"></div>
 		<div class="dot" id="next"onclick="nextImage()"></div>
 	</div>
