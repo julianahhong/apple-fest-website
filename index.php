@@ -54,6 +54,10 @@
 	 </div>
   </body>
   <footer>
+    <div id ="footer">
+      <p>Come and explore more on Apple Harvest Festival ! Call <span id = "tele">1111111</span> for more infomation</p>
+    </div>
+    <script src="js/date.js"></script>
 	<script src="js/main.js"></script>
   </footer>
 </html>
