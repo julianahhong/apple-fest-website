@@ -6,6 +6,7 @@ var images = ["img/apples.jpg", "img/caramel.jpg", "img/cider.jpg", "img/people.
 //Photo Source: people.jpg- https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479674740576/?type=3&theater
 //Photo Source: wine.jpg- https://www.facebook.com/downtownithaca/photos/a.10157479674205576.1073741855.132710300575/10157479675475576/?type=3&theater
 
+var image = document.getElementById("photo");
 function nextImage(){
 	console.log('hi');
 	if (i == images.length - 1) {
@@ -26,7 +27,7 @@ function previousImage(){
 	image.src = images[i];
 }
 
-setInterval('nextImage()', 1000);
+setInterval('nextImage()', 2000);
 
 
 
