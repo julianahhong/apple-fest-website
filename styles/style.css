@@ -215,11 +215,14 @@ footer {
 	padding-bottom: 10px;
 	background-color: #324C5f;
 	color: white;
-	display: block;
-	font-size: 1em;
+	font-size: 10px;
 	text-align: center;
-	width: 120%;
+	width: 100%;
+	display:block;
+	position: fixed;
+	bottom: 0;
 }
+
 
 #tele {
   color: blue;
