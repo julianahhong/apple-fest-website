@@ -218,8 +218,8 @@ footer {
 	font-size: 10px;
 	text-align: center;
 	width: 100%;
-	display:block;
-	position: fixed;
+	display: block;
+	position: absolute;
 	bottom: 0;
 }
 

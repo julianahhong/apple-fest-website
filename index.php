@@ -57,8 +57,8 @@
 				<p class="caption">Figure.2 Route 70</p>
 			</div><!-- end of image_box div -->
 			<div id = blank>
-+				<p>bbbbbb</p>
-+			</div>
+				<p>bbbbbb</p>
+			</div>
 
 		</div><!--end of container div-->
 	</div><!--end of direction_content div-->
