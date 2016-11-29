@@ -12,7 +12,6 @@
 
 
 <body>
-
 	<?php include("scripts/header.php"); ?>
 
 <div id="body1">
@@ -64,11 +63,8 @@
 </body>
 
 <footer>
-	<div id ="footer">
-		<div id = blank></div>
-			<p>Come and explore more on Apple Harvest Festival ! See <span id = "tele">Top</span> for more infomation</p>
-			<script src="js/date.js"></script>
-		</div>
+	<p>Come explore Apple Harvest Festival! </p>
+	<script src="js/date.js"></script>
 	<script src="js/main.js"></script>
 </footer>
 
