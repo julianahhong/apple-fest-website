@@ -59,6 +59,7 @@
 			<div id = blank>
 +				<p>bbbbbb</p>
 +			</div>
+
 		</div><!--end of container div-->
 	</div><!--end of direction_content div-->
 </div><!-- end of body1 div -->
