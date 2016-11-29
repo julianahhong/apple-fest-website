@@ -28,19 +28,3 @@ function previousImage(){
 }
 
 setInterval('nextImage()', 2000);
-
-
-
-/*
-function changeSliderImages(){
-	//for (var i = 0; i<images.length; i++) {
-		var image = document.getElementById("photo");
-		image.src = images[i];
-	//}
-	i+=1;
-	console.log('hi');
-}
-
-//change image automatically every 2 sec
-setTimeout(changeSliderImages(), 2000);
-*/
