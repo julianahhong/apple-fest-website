@@ -2,6 +2,9 @@ html{
 	overflow-x: hidden;
 	width: 100%;
 }
+body{
+	margin: 0;
+}
 head {
 	position: fixed;
 }
@@ -269,3 +272,7 @@ footer {
   color: blue;
   text-decoration: underline;
 }
+#nav_bar a:hover {
+	opacity: 0.75;
+}
+
