@@ -2,6 +2,9 @@ html{
 	overflow-x: hidden;
 	width: 100%;
 }
+body{
+	margin: 0;
+}
 head {
 	position: fixed;
 }
@@ -264,3 +267,4 @@ footer {
 #nav_bar a:hover {
 	opacity: 0.75;
 }
+
