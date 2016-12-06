@@ -93,8 +93,30 @@ h2 {
 	font-family: 'Lora', serif;
 	height: 100%;
 	padding: 5%;
+	position: relative;
 }
 
+#tag1{
+	position: relative;
+	top: -150px;
+}
+#tag2{
+	position: relative;
+	top: -150px;
+}
+#tag3{
+	position: relative;
+	top: -150px;
+}
+#tag4{
+	position: relative;
+	top: -150px;
+}
+
+#events{
+	position: absolute;
+	height: 500px;
+}
 #event_content {
 	background-color: #ffffcc;
 	display: block;
@@ -276,3 +298,10 @@ footer {
 	opacity: 0.75;
 }
 
+.offset:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -700px; 
+  height: 700px; 
+  visibility: hidden; 
+}

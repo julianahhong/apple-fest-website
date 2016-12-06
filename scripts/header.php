@@ -12,10 +12,10 @@ echo '
 <div id="nav_bar">
   <ul>
     <li><a href="#">Homepage</a></li>
-    <li><a href="#general_info">About</a></li>
-    <li><a href="#event_content">Events</a></li>
-    <li><a href="#food_content">Food</a></li>
-    <li><a href="#direction_content">Directions</a></li>
+    <li><a href="#tag1">About</a></li>
+    <li><a href="#tag2">Events</a></li>
+    <li><a href="#tag3">Food</a></li>
+    <li><a href="#tag4">Directions</a></li>
   </ul>
 </div> <!--end of nav_bar div-->';
 ?>
