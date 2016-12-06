@@ -261,3 +261,6 @@ footer {
   color: blue;
   text-decoration: underline;
 }
+#nav_bar a:hover {
+	opacity: 0.75;
+}
