@@ -138,78 +138,108 @@ h2 {
 
 /*media queries*/
 @media screen and (min-width: 1200px) {
-    #photo_slider > img {
-        min-width: 1100px;
-        max-width: 100%;
-        height: auto;
-    }
+  #photo_slider > img {
+    min-width: 1100px;
+    max-width: 100%;
+    height: auto;
+  }
 
-    #container {
-        width: 100%;
-    }
+  #container {
+    width: 100%;
+  }
 
-    #direction_content img {
-        width: 80%;
-    }
+  #direction_content img {
+    width: 80%;
+  }
+
+	#banner {
+    font-size: 74%;
+  }
+
+  #nav_bar li {
+    font-size: 74%;
+  }
 }
 
-}
 
 @media screen and (min-width: 768px) and (max-width: 1200px) {
-    #photo_slider > img {
-        min-width: 648px;
-        max-width: 1000px;
-        height: auto;
-    }
+  #photo_slider > img {
+    min-width: 648px;
+    max-width: 1000px;
+    height: auto;
+  }
 
-    #container {
-        max-width: 85%;
-    }
+  #container {
+    max-width: 85%;
+  }
 
 	#photo_slider > img{
 		width: 100%;
 	}
 
-    #direction_content img {
-        width: 100%;
-    }
-}
+  #direction_content img {
+    width: 100%;
+  }
+
+	#banner {
+		font-size: 75%;
+	}
+
+	#nav_bar li {
+		font-size: 75%;
+	}
 }
 
 @media screen and (min-width: 480px) and (max-width: 768px) {
-    #container > img {
-       min-width: 360px;
-       max-width: 568px;
-    }
+  #container > img {
+    min-width: 360px;
+    max-width: 568px;
+  }
 
 
-    #container {
-        max-width: 75%;
-    }
+  #container {
+    max-width: 75%;
+  }
 
 	#photo_slider > img{
 		width: 100%;
 	}
 
-    #direction_content img {
-        width: 100%;
-    }
+  #direction_content img {
+    width: 100%;
+  }
+
+	#banner {
+		font-size: 80%;
+	}
+
+	#nav_bar li {
+		display: block;
+		font-size: 80%;
+	}
 }
 
 @media screen and (max-width: 480px) {
-
-
-    #container {
-        max-width: 65%;
-    }
+  #container {
+    max-width: 65%;
+  }
 
 	#photo_slider > img{
 		width: 100%;
 	}
 
-    #direction_content img {
-        width: 100%;
-    }
+  #direction_content img {
+    width: 100%;
+  }
+
+	#banner {
+		font-size: 100%;
+	}
+
+	#nav_bar li {
+		display: block;
+		font-size: 100%;
+	}
 }
 
 footer {
