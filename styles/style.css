@@ -6,6 +6,10 @@ head {
 	position: fixed;
 }
 
+body {
+
+}
+
 #banner {
 	background-color: #324c5f;
 	font-family: 'Eczar', serif;
@@ -54,6 +58,10 @@ h2 {
 	margin-right: 40px;
 	padding: 0;
 	color: #ffffff;
+}
+
+#nav_bar a:hover {
+	opacity: 0.75;
 }
 
 #body1 {
@@ -157,7 +165,7 @@ h2 {
   }
 
   #nav_bar li {
-    font-size: 74%;
+    font-size: 1em;
   }
 }
 
@@ -186,7 +194,7 @@ h2 {
 	}
 
 	#nav_bar li {
-		font-size: 75%;
+		font-size: 1em;
 	}
 }
 
@@ -215,7 +223,7 @@ h2 {
 
 	#nav_bar li {
 		display: block;
-		font-size: 80%;
+		font-size: 1.1em;
 	}
 }
 
@@ -233,12 +241,12 @@ h2 {
   }
 
 	#banner {
-		font-size: 100%;
+		font-size: 90%;
 	}
 
 	#nav_bar li {
 		display: block;
-		font-size: 100%;
+		font-size: 1.2em;
 	}
 }
 
