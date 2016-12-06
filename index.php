@@ -24,22 +24,32 @@
 	</div><!--end of photo_slider div-->
 
 	<div id="container">
+		<div id="tag1"></div>
+
 		<div id="general_info">
 			<h1>About</h1>
 			<p>Date: September 30, 2016 - October 2, 2016</p>
 			<p>Ithaca's premier event of the Fall, Apple Harvest Festival is a three day celebration of food, fun, and apples!</p>
 			<p>The 34th Annual Great Downtown Ithaca Apple Harvest Festival by Presented Tompkins Trust Company is set to take place September 30 - October 2, 2016.</p>
 		</div><!--end of general_info div-->
+
+		<div id="tag2"></div>
 		<div id="event_content">
+			<div id="events"></div>
 			<h1>Events</h1>
 			<p>The 2016 Apple Harvest Festival hosts plenty of apples, local produce, fresh baked goods, family entertainment at every turn, games, rides, prizes and live performances on two stages.</p>
 			<p>Apple Harvest Festival is a great introduction to the rich farm and artist community of Ithaca.</p>
 			<p>First time visitors can witness a variety of wonderful local entertainment while also visiting the historical outdoor pedestrian shopping mall, The Ithaca Commons.  The pedestrian mall is the epicenter of the festival and the gateway to a nostalgic journey to harvest season fun. Kids can visit with the goats and learn how fiber is made with Laughing Goat Fiber Farm.  Looking for quality goods, visit 60 different handcrafting artisans along Cayuga Street at the fall craft show which includes jewelry, ceramics, home decor, body care, specialty gifts, unique sculpture, clothing and so much more.</p>
 		</div><!--end of event_content div-->
+		
+		<div id="tag3"></div>
 		<div id="food_content">
 			<h1>Food</h1>
 			<p>Over 100 vendors will be selling unique apple varieties, hot apple cider donuts, kettle corn, local farm fresh baked goods and a multitude of around the world specialties. Local farmers are on site selling everything from tasty apple beverages to local pumpkins and of course, apples, apples and more apples. Wineries and cideries have regional beverages available for tasting and purchase.</p>
 		</div><!--end of food_content div-->
+		
+		<div id="tag4"></div>
+
 		<div id="direction_content">
 			<h1>Directions</h1>
 			<p>There are several ways to get from Cornell’s campus to Ithaca Commons! You can choose to walk or take public transportation offered by TCAT.</p>
